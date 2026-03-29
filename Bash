@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "Initial commit: Secure Firebase config"
-git remote add origin <내_저장소_URL>
+git remote add origin <https://github.com/jamjamjam0/260329->
 git push -u origin main
